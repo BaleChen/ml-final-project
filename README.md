@@ -1,4 +1,5 @@
-# ml-final-project
+# Multi-species Classification for Dolphin and Whales: A Deep Learning Approach!
+
 Course Project in CSCI-SHU 360 Machine Learning. Collaborated with my classmate Yuxuan Xia and instructed by Professor Mathieu Lauriere.
 
 * Presented a deep learning approach to classify dolphin and whale species using both traditional machine learning models and the currently trending models like ResNet and Vision Transformer
